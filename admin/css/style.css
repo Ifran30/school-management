@@ -1,0 +1,15 @@
+.full_nav_admin {
+	background: #f4f4f4 !important;
+	overflow: hidden;
+}
+.nav_item_admin ul li a {
+	color: #827f7f !important;
+	font-size: 16px;
+}
+.nav_item_admin {
+	margin-left: 100px;
+}
+.wc_txt h2 {
+	margin: 160px 1px 1px;
+	text-align: center;
+}

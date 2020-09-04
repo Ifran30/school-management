@@ -1,0 +1,101 @@
+.up_xm {
+	height: 100px;
+	width: 250px;
+	background: #3333;
+}
+.left {
+	float: left;
+	border-right: 1px solid #333;
+	margin-top: 12px;
+	padding-right: 10px;
+	padding-left: 18px;
+	margin-right: 26px;
+	overflow: hidden;
+}
+.left span {
+	margin-left: 39px;
+	color: #5b4949;
+	font-size: 25px;
+}
+.right p {
+	margin: 31px 6px 23px -5px;
+	padding-left: 20px;
+	display: block;
+	overflow: hidden;
+	font-size: 27px;
+}
+.right {
+	overflow: hidden;
+}
+.top_section {
+	padding-bottom: 50px;
+}
+.my_image {
+	height: 200px;
+	width: 200px;
+}
+.my_image img {
+	height: 100%;
+	width: 100%;
+}
+.my_profile {
+	background: #eae8e8;
+	 padding: 15px !important;
+}
+.pro_heading {
+	margin-top: 31px;
+}
+.pro_heading h5 {
+	font-size: 15px;
+	font-weight: bold;
+}
+.my_info {
+	margin-top: 29px;
+	line-height: 17px;
+	font-size: 12px;
+}
+.whole_notice {
+	background: #dfdede;
+	overflow: scroll;
+	height: 446px;
+}
+.notice h5 {
+	font-size: 17px;
+	color: #ff0505;
+	margin-top: 10px;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+.notice_content {
+	margin-top: 35px;
+}
+.notice_content h6 {
+	font-size: 11px;
+	color: #847e0f;
+}
+.notice_content span {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 12px;
+}
+.notice_content p {
+	font-style: italic;
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+.result {
+	padding-top: 70px;
+}
+.result_title h5 {
+	text-align: center;
+	font-weight: bold;
+}
+.mytable {
+	left: 75%;
+	padding-top: 15px;
+}
+.right p{
+	color: #f00;
+
+}

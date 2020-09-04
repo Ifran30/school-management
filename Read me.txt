@@ -1,0 +1,20 @@
+Tomar database name: irscholl 
+oi name a database create korba. then "database" folder a duke "db.php" file open kore check kore niba sob tik ache kina. check below; 
+
+
+$db['db_host'] = "localhost"; 
+$db['db_user'] = "root"; 
+$db['db_pass'] = ""; 
+$db['db_name'] = "irschool"; 
+
+
+tarpor "database" folder er "irscholl.sql" file ta database import korba. then local host theke browser kore dekho peye jabe. 
+
+
+Student login: 
+ id: ifran
+pass: 123
+
+partnet login:
+id: ammu
+pass: 123
